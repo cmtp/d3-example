@@ -1,0 +1,24 @@
+{
+  "name": "d3-example",
+  "version": "1.0.0",
+  "description": "Demo for d3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmtp/d3-example.git"
+  },
+  "keywords": [
+    "d3",
+    "d3.js",
+    "svg"
+  ],
+  "author": "ctola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmtp/d3-example/issues"
+  },
+  "homepage": "https://github.com/cmtp/d3-example#readme"
+}
